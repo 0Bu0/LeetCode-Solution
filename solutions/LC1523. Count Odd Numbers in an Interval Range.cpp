@@ -3,6 +3,8 @@
 // 网址：https://www.buzhidao.icu
 // 相关主题：math
 
+// time complexity: O(1)
+// space complexity: O(1)
 class Solution
 {
 public:
@@ -12,6 +14,8 @@ public:
     }
 };
 
+// time complexity: O(1)
+// space complexity: O(1)
 // other solution from lee(https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/solutions/754726/java-c-python-1-lines/)
 class Solution
 {
